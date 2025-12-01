@@ -1,5 +1,6 @@
 # Time-Anomaly
 
+Play The Game  ( https://talha-dogan.itch.io/the-time-anamoly )
 Time Anomaly is a fast-paced time-travel adventure told from an unexpected perspective — a caveman who accidentally breaks time itself. One quiet night, a mysterious meteor crashes into the valley. Inside it lies a strange crystal humming with unknown power. When our caveman touches it, he’s thrown across eras he never imagined.
 
 One moment he’s trapped in icy prehistoric wastelands, the next he wakes up in futuristic cities ruled by advanced machines. With every jump, time becomes more unstable — and the only way forward is to survive, adapt, and uncover the truth behind the crystal.
