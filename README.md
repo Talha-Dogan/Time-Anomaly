@@ -9,6 +9,13 @@ Travel through shifting timelines, face enemies from different ages, solve envir
 
 Time Anomaly is an adventurous journey through broken timelines — and only you can restore balance before time collapses for good.
 
+## 📸 Gameplay Gallery
+<img width="147" height="117" alt="Q_ic_T" src="https://github.com/user-attachments/assets/db0b35c1-ae2b-4404-8b28-f3704c673af8" />
+<img width="147" height="117" alt="kfdPU7" src="https://github.com/user-attachments/assets/87c23d74-ca80-4aab-ab8b-b8712acab2b1" />
+<img width="147" height="117" alt="+kC2ka" src="https://github.com/user-attachments/assets/38e328eb-7db4-47cf-b08e-bbae6364d2e4" />
+<img width="147" height="117" alt="Cq7aqF" src="https://github.com/user-attachments/assets/de143308-81d6-4da0-ba79-677d155645b9" />
+<img width="147" height="117" alt="iIP8fP" src="https://github.com/user-attachments/assets/558a7c6f-5790-4463-8427-9d74d6e0f2a2" />
+<img width="147" height="117" alt="NNmYAl" src="https://github.com/user-attachments/assets/72770032-aaa7-424f-a7f3-41a58de27074" />
 
 
 
@@ -28,17 +35,4 @@ This game uses the following third-party assets. Huge thanks to the creators for
 * **Low Poly Human** by amiutass - [Sketchfab](https://skfb.ly/6YuZD) (Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
 * **Fantasy Stylized Crystals** by tony chopper - [Sketchfab](https://skfb.ly/orn9K) (Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
 * **Cartoon Money** by Ay23man - [Sketchfab](https://skfb.ly/pyCBP) (Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
-* **Stylized Meadows (Forest)** - [Unity Asset Store](https://assetstore.unity.com/packages/3d/vegetation/trees/remake-stylized-meadows-mega-art-pack-123574)
-* **City Package** - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224)
-* **4 Low Poly Toon Cars** - [Unity Asset Store](https://assetstore.unity.com/packages/3d/vehicles/land/4-low-poly-toon-cars-205608)
-
-### ✨ Visual Effects (VFX)
-
-* **VFX Impact and Hit (Light Version)** - [Unity Asset Store](https://assetstore.unity.com/packages/vfx/particles/vfx-impact-and-hit-light-version-335800)
-
-### 🔊 Audio & Sound Effects
-
-* **Sound Effects** by freesound_community - [Pixabay](https://pixabay.com/users/freesound_community-46691455/)
-* **Additional Sounds** - [Pixabay](https://pixabay.com/)
-* **Meme/SFX Clips** - [MyInstants](https://www.myinstants.com/en/index/tr/)
-* **Background Music/SFX** - [Khinsider](https://downloads.khinsider.com/)
+* **Stylized Meadows (Forest)** - [Unity Asset Store](
