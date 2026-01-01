@@ -9,7 +9,10 @@ Travel through shifting timelines, face enemies from different ages, solve envir
 
 Time Anomaly is an adventurous journey through broken timelines — and only you can restore balance before time collapses for good.
 
-## 📸 Gameplay Gallery
+
+## <img width="40" height="30" alt="NTxBzN" src="https://github.com/user-attachments/assets/73ce8998-d2a4-4f86-91a6-892b9ff60861" />____📸 Gameplay Gallery ____<img width="40" height="30" alt="NTxBzN" src="https://github.com/user-attachments/assets/73ce8998-d2a4-4f86-91a6-892b9ff60861" />
+
+
 <img width="147" height="117" alt="Q_ic_T" src="https://github.com/user-attachments/assets/db0b35c1-ae2b-4404-8b28-f3704c673af8" />
 <img width="147" height="117" alt="kfdPU7" src="https://github.com/user-attachments/assets/87c23d74-ca80-4aab-ab8b-b8712acab2b1" />
 <img width="147" height="117" alt="+kC2ka" src="https://github.com/user-attachments/assets/38e328eb-7db4-47cf-b08e-bbae6364d2e4" />
