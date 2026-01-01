@@ -14,7 +14,6 @@ Time Anomaly is an adventurous journey through broken timelines — and only you
 
 
 <img width="147" height="117" alt="Q_ic_T" src="https://github.com/user-attachments/assets/db0b35c1-ae2b-4404-8b28-f3704c673af8" />
-<img width="147" height="117" alt="kfdPU7" src="https://github.com/user-attachments/assets/87c23d74-ca80-4aab-ab8b-b8712acab2b1" />
 <img width="147" height="117" alt="+kC2ka" src="https://github.com/user-attachments/assets/38e328eb-7db4-47cf-b08e-bbae6364d2e4" />
 <img width="147" height="117" alt="Cq7aqF" src="https://github.com/user-attachments/assets/de143308-81d6-4da0-ba79-677d155645b9" />
 <img width="147" height="117" alt="iIP8fP" src="https://github.com/user-attachments/assets/558a7c6f-5790-4463-8427-9d74d6e0f2a2" />
